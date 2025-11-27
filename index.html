@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>EmpowerTech Training Center</title>
+  <link rel="stylesheet" href="style3.css">
+</head>
+<body>
+  
+  <header>
+    <h1>EmpowerTech Training Center</h1>
+    <nav>
+    
+       <a href="index.html">Home</a>
+       <a href="services.html">Services</a>
+        <a href="contact.html">Contact</a>
+
+
+      </table>
+      
+      
+      
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Empowering Futures Through Technology</h2>
+      <p>EmpowerTech is a movement dedicated to equipping individuals with the skills needed to thrive in the Fourth Industrial Revolution. Our mission is to train and uplift learners through hands-on ICT programs, creating job-ready professionals and tech entrepreneurs.</p>
+      <p>We believe in inclusive growth, digital literacy, and real-world impact. Whether you're a student, job seeker, or corporate partner, EmpowerTech is your launchpad into the future of work.</p>
+    </section>
+	<h2>What Our Learners Say</h2>
+<div class="testimonial-carousel">
+  <div class="testimonial active">
+    <p>"EmpowerTech helped me land my first job in cybersecurity. The hands-on labs were game-changing!"</p>
+    <strong>– Thabo M.</strong>
+  </div>
+  <div class="testimonial">
+    <p>"I launched my own tech startup after completing the entrepreneurship track. Highly recommended!"</p>
+    <strong>– Lerato K.</strong>
+  </div>
+  <div class="testimonial">
+    <p>"The instructors are incredibly supportive and the content is industry-relevant."</p>
+    <strong>– Sipho D.</strong>
+  </div>
+</div>
+
+<script>
+  let current = 0;
+  const testimonials = document.querySelectorAll('.testimonial');
+  setInterval(() => {
+    testimonials[current].classList.remove('active');
+    current = (current + 1) % testimonials.length;
+    testimonials[current].classList.add('active');
+  }, 5000);
+</script>
+
+<style>
+  .testimonial-carousel {
+    max-width: 600px;
+    margin: 20px auto;
+    text-align: center;
+  }
+  .testimonial {
+    display: none;
+    transition: opacity 0.5s ease-in-out;
+  }
+  .testimonial.active {
+    display: block;
+  }
+</style>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 EmpowerTech Training Center</p>
+  </footer>
+</body>
+</html>
