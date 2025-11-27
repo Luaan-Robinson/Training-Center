@@ -15,8 +15,7 @@ A responsive landing page project for my tech training center, showcasing traini
 - Vanilla JavaScript
 
 ## View Live
-[View Demo](https://yourusername.github.io/training-center-landing-page)
-
+[View Demo](https://luaan-robinson.github.io/Practice-Projects/)
 ## Future Enhancements
 - [ ] Form validation
 - [ ] Mobile menu hamburger
