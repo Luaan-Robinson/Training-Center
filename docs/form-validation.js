@@ -21,8 +21,8 @@ document.addEventListener('DOMContentLoaded', function() {
             const isExpanded = nav.classList.contains('active');
             menuToggle.setAttribute('aria-expanded', isExpanded);
             
-            // Update button icon
-            menuToggle.innerHTML = isExpanded ? '✕' : '☰';
+            // Update button text
+            menuToggle.innerHTML = isExpanded ? '✕ CLOSE' : '☰ MENU';
         });
         
         // Close menu when clicking on a nav link
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', function() {
             link.addEventListener('click', () => {
                 nav.classList.remove('active');
                 menuToggle.setAttribute('aria-expanded', 'false');
-                menuToggle.innerHTML = '☰';
+                menuToggle.innerHTML = '☰ MENU';
             });
         });
         
@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 if (nav.classList.contains('active')) {
                     nav.classList.remove('active');
                     menuToggle.setAttribute('aria-expanded', 'false');
-                    menuToggle.innerHTML = '☰';
+                    menuToggle.innerHTML = '☰ MENU';
                 }
             }
         });
