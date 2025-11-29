@@ -340,7 +340,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     successDiv.style.transition = 'opacity 0.5s ease';
                     successDiv.style.opacity = '0';
                     setTimeout(() => successDiv.remove(), 500);
-                }, 8000);
+                }, 10000);
             };
         }
     }
