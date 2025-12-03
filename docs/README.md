@@ -70,40 +70,6 @@ A modern, fully responsive landing page showcasing a fictional tech training cen
 
 **[View Demo →](https://luaan-robinson.github.io/Training-Center/)**
 
-## 💻 Local Development
-
-### Prerequisites
-- A modern web browser (Chrome, Firefox, Safari, or Edge)
-- Text editor (VS Code recommended)
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/Luaan-Robinson/Training-Center.git
-
-# Navigate to the project directory
-cd Training-Center/docs
-
-# Open index.html in your browser
-# Or use Live Server extension in VS Code
-```
-
-### File Structure
-
-```
-Training-Center/
-├── docs/
-│   ├── index.html           # Homepage
-│   ├── services.html        # Services page
-│   ├── contact.html         # Contact page
-│   ├── style3.css           # Main stylesheet
-│   ├── form-validation.js   # JavaScript functionality
-│   └── README.md            # Project documentation
-├── README.md                # Main README
-└── .gitignore
-```
-
 ## 📋 Pages Overview
 
 ### Home Page (`index.html`)
@@ -163,49 +129,6 @@ Error Red:        #e53e3e
 Success Green:    #48bb78
 ```
 
-## 🔄 Future Enhancements
-
-- [ ] Backend integration for form submissions
-- [ ] Dark mode toggle
-- [ ] Additional animation polish
-- [ ] Blog section with articles
-- [ ] Student portal login
-- [ ] Multi-language support
-- [ ] Progressive Web App (PWA) features
-- [ ] Course filtering and search
-
-## 📈 Performance
-
-- Optimized images and assets
-- Minimal external dependencies
-- Efficient JavaScript with event delegation
-- CSS animations using GPU acceleration
-- Lazy loading preparation for future images
-
-## 🐛 Known Issues
-
-- Form submissions are client-side only (demo mode)
-- No backend server integration yet
-- Limited IE11 support (modern browsers recommended)
-
-## 📝 Browser Support
-
-- Chrome/Edge (latest)
-- Firefox (latest)
-- Safari (latest)
-- Opera (latest)
-- IE11 (limited support)
-
-## 🤝 Contributing
-
-This is a personal portfolio project, but feedback and suggestions are welcome!
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'ETC-X Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📧 Contact
 
 **Luaan Robinson**
@@ -230,21 +153,3 @@ Check out my other projects:
 
 ---
 
-## 🙏 Acknowledgments
-
-- Design inspiration from modern SaaS landing pages
-- Icons: Unicode emoji characters
-- Background image: Wallpaper Cave
-- Fonts: System font stack for optimal performance
-
----
-
-**⭐ If you found this project helpful, please consider giving it a star!**
-
-## 📊 Project Stats
-
-- **Lines of Code**: ~1,500+
-- **Files**: 5 main files
-- **Development Time**: 2 weeks
-- **Last Updated**: December 2024
-- **Status**: ✅ Production Ready
