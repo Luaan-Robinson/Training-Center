@@ -70,6 +70,7 @@ A modern, fully responsive landing page showcasing a fictional tech training cen
 ## 🚀 View Live & Test Cases
 
 **[View Demo →](https://luaan-robinson.github.io/Training-Center/)**
+
 **[Test Cases →](https://luaan-robinson.atlassian.net/jira/software/c/projects/ETC/list?jql=project+%3D+%22ETC%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiMzUzOGM3NDU1MmQwNGM1ZmIyMzM1YWI0NjcwODA0ZGIiLCJwIjoiaiJ9)**
 
 ## 📋 Pages Overview
