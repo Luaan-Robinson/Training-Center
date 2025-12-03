@@ -3,8 +3,7 @@
 A modern, fully responsive landing page showcasing a fictional tech training center. This project demonstrates front-end development skills including responsive design, accessibility best practices, and interactive JavaScript components.
 
 [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://luaan-robinson.github.io/Training-Center/)
-![Jira]([https://img.shields.io/badge/Jira-Test%20Cases-blue?logo=jira&logoColor=white](https://luaan-robinson.atlassian.net/jira/software/c/projects/ETC/development?severity=CRITICAL&sortKey=status&sortOrder=ASC&tab=REPOSITORIES&atlOrigin=eyJpIjoiNGM2MTY3ODA1ZDM2NGNiOThlN2E0ZDZjOTY2ZDMzYjIiLCJwIjoiaiJ9))
-![Jira](https://img.shields.io/badge/Jira-Test%20Cases-blue?logo=jira&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-[Test%20Cases-blue?logo=jira&logoColor=white](https://luaan-robinson.atlassian.net/jira/software/c/projects/ETC/list?jql=project%20%3D%20%22ETC%22%20ORDER%20BY%20created%20DESC))
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
