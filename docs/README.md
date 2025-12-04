@@ -76,7 +76,7 @@ A modern, fully responsive landing page showcasing a fictional tech training cen
 
 **[Test Cases →](https://luaan-robinson.atlassian.net/jira/software/c/projects/ETC/list?jql=project+%3D+%22ETC%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiMzUzOGM3NDU1MmQwNGM1ZmIyMzM1YWI0NjcwODA0ZGIiLCJwIjoiaiJ9)**
 
-**[Jira Testing Screenshots]:**
+**Jira Testing Screenshots:**
 <img width="1919" height="964" alt="image" src="https://github.com/user-attachments/assets/2d987ae9-2014-425a-aa41-a76539211b7d" />
 
 <img width="1919" height="961" alt="image" src="https://github.com/user-attachments/assets/22856dd2-6304-4892-a3e7-285a2406a823" />
