@@ -70,6 +70,7 @@ A modern, fully responsive landing page showcasing a fictional tech training cen
 ## 🚀 View Live & Test Cases
 
 **[View Demo →](https://luaan-robinson.github.io/Training-Center/)**
+
 <img width="1919" height="872" alt="image" src="https://github.com/user-attachments/assets/f824425d-4517-4876-87eb-f6c0dc1ad4ed" />
 
 
